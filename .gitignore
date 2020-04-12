@@ -4,6 +4,9 @@ HELP.md
 .gradle
 build/
 target/
+out/
+*.iml
+*.class
 
 ### STS ###
 .apt_generated
